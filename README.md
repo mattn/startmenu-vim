@@ -1,6 +1,6 @@
 # startmenu-vim
 
-![](https://github.com/mattn/startmenu-vim/blob/master/doc/startmenu.gif)
+![](https://raw.github.com/mattn/startmenu-vim/master/doc/startmenu.gif)
 
 # Usage
 
